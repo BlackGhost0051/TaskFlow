@@ -12,3 +12,4 @@ TaskFlow is a web-based task management application built with Flask. It allows 
 # Manual tester example events ( TestCase )
 # Used technologies
 - Flask
+- Swagger
